@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+main {
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px 
+}   
+
+#equilibrium {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 240px;
+    border-radius: 10px;
+}
+
+h1 {
+    padding-left: 10px;
+    text-align: start;
+    font-size: 1em;
+    color: white;
+}
+
+p {
+    color: hsl(215, 18%, 50%);
+    text-align: start;
+    padding-left: 10px;
+}
+
+#flex {
+    display: inline-flex;
+    position: relative;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#icon {
+    height: 20px;
+    align-items: center;
+}
+
+#eth {
+    color: cyan;
+}
+
+#relogio{
+    width: 20px;
+    padding-left: 50px;
+}
+
+#final{
+    text-align: end;
+}
+
+#criador{
+    display: flex;
+    align-items: center;
+
+}
+
+#foto{
+    width: 30px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+
+#nome{
+    font-size:small;
+    padding-bottom: 10px ;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}

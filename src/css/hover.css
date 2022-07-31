@@ -1,0 +1,13 @@
+a:hover{
+    color: cyan;
+}
+
+h1:hover{
+    color: cyan;
+}
+
+#equilibrium:hover {
+    opacity: 0;
+    color: cyan;
+}
+

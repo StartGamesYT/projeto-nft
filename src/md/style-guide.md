@@ -11,8 +11,8 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Soft blue: hsl(215, 51%, 70%)
-- Cyan: hsl(178, 100%, 50%)
+- Soft blue: hsl(215, 5 %)
+- Cyan: hsl(178, 100%, 501%, 70%)
 
 ### Neutral
 
