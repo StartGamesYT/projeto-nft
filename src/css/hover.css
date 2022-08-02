@@ -1,6 +1,28 @@
 
 a:hover{
-    color: cyan;
+    z-index: 0;
+    opacity: 0;
+}
+
+.view{
+    background: var(--ho);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 24.5rem;
+    width: 17rem;
+    text-align: center;
+    border-radius: 15px;
+    position: absolute;
+    top: 3.5%;
+    cursor: pointer;
+    z-index: 0;
+}
+
+.icon-view{
+    width: 3rem;
+    height: 3rem;
 }
 
 h1:hover{
