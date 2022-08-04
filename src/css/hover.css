@@ -1,16 +1,7 @@
-
-<<<<<<< HEAD
 a:hover {
-    color: aqua;
-=======
-a:hover{
-    z-index: 0;
-    opacity: 0;
     color: cyan;
->>>>>>> fd82bd9446de6dfcc834077fe5d55d84ed2103d0
 }
 
 h1:hover {
-    color: aqua;
+    color: cyan;
 }
-
